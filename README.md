@@ -164,12 +164,11 @@ The dataset contains vehicle images categorized into six classes representing di
 
 ## 👨‍💻 Author
 
-**George Alex**
+**George P Alex**
 
 Aspiring Data Scientist | Machine Learning & Deep Learning Enthusiast
 
-- GitHub: https://github.com/<YOUR_GITHUB_USERNAME>
-- LinkedIn: https://www.linkedin.com/in/<YOUR_LINKEDIN_USERNAME>/
+- GitHub: https://github.com/Georgepalex
 
 ---
 
